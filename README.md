@@ -4,7 +4,7 @@
 
 这个项目前端使用了[cwarcup.com](https://github.com/Cwarcup/personal-blog)提供的模板，使用Next.js和Tailwind CSS搭建。
 
-后端使用了Django RESTFRAMEWORK。
+后端使用了Django REST Framework。
 
 ## 项目截图
 
